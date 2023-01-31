@@ -1,0 +1,13 @@
+1)|Tema do cubo
+
+2)Fotos e vídeos sobre o tema
+
+3)Uma música instrumental de fundo(com efeitos de fade-in e fade-out)
+
+4)Efeitos de transição 
+
+5)Zoom e movimento para algumas fotos
+
+6)Filtros e efeitos
+
+7)Formato mp4

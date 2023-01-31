@@ -1,0 +1,72 @@
+TRABALHO FINAL
+
+Desenvolva um sistema web em HTML 5, CSS 3, Javascript (caso necessite, pode usar um banco de dados e uma outra linguagem do lado do servidor), que contenha as características e especificações abaixo.
+
+Se preferirem, podem optar por outra atividade, como:
+
+filme interativo;
+jogo;
+mapeamento de vídeo;
+etc.
+Esta possibilidade deve ser discutida e combinada previamente com o professor.
+ 
+
+- Tema livre – mas vamos manter a moral e os bons costumes, em caso de dúvida, consulte o professor.
+
+ 
+
+- Crie um mecanismo de navegação, mapa de site, busca interna, trilhas, breadcrumb navigation (migalhas de pão) (valor 0,5 ponto).
+
+ 
+
+- Adote características que favoreçam uma melhor Interface Homem Máquina (valor 1 ponto).
+
+ 
+
+- Textos – observar formatação e legibilidade (valor 0,5 ponto).
+
+ - Hiperlinks - escolha um tópico e crie páginas relacionas ao assunto. (0,5 ponto). 
+
+- Imagens, cores e design gráfico  – cuidado na escolha e adequação (valor 1 ponto).
+
+ 
+
+- Áudio – inserir o trabalho já desenvolvido. Coloque um player de execução do áudio em uma das páginas do trabalho.
+
+ 
+
+- Animação – inserir o trabalho já desenvolvido em uma das páginas do trabalho.
+
+ 
+
+ - Vídeo – roteiro abaixo – coloque controle de execução do vídeo (valor 1 pontos).
+
+ 
+
+ - Conteúdo (0,5 ponto).
+
+ 
+
+ - Inclua os portfólios dos autores em uma página e inclua ficha técnica com as ferramentas utilizadas.
+
+ 
+
+Observações:
+
+ 
+
+- Trabalho em grupo de até quatro pessoas ou individual.
+
+ 
+
+- Serão avaliados também a usabilidade, a harmonia e o estilo.
+
+ 
+
+ - Sugestão: utilizem as ferramentas apresentadas pelo professor.
+
+ 
+
+ Datas das apresentações: 31 de janeiro e 03 de fevereiro de 2023.
+
+ 
