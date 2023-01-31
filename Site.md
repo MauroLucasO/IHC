@@ -1,4 +1,4 @@
 # Dede
 
-Repositorio sobre a matéria do dede
+Repositorio relacionado a matéria do dede
 
